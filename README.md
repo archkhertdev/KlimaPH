@@ -36,7 +36,7 @@ You can run it **locally** or deploy it on **GitHub Pages** — no backend or da
 4. 🔎 Type a city name and choose from the suggestions
 
 ## 📁 **For new users, click this link:**
-[KlimaPH]
+[KlimaPH](https://archkhertdev.github.io/KlimaPH/) - KlimaPH
 
 ---
 
