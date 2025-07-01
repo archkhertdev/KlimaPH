@@ -28,12 +28,15 @@ You can run it **locally** or deploy it on **GitHub Pages** — no backend or da
 
 ---
 
-## 📁 **How to Use**
+## 📁 **How to Use (For Advanced Users**
 
 1. 📦 Clone or download this repository  
 2. 🌐 Open the `index.html` file in any modern browser  
 3. ✅ Allow location access when prompted (optional)  
-4. 🔎 Type a city name and choose from the suggestions  
+4. 🔎 Type a city name and choose from the suggestions
+
+## 📁 **For new users, click this link:**
+[KlimaPH]
 
 ---
 
