@@ -1,47 +1,60 @@
-# Weather Lang
+# 🌦️ **KlimaPH**
 
-**Weather Lang** is a simple and responsive weather web app made using **HTML**, **CSS**, and **JavaScript**.  
-It allows users to view the **current weather conditions** based on their **location** or by **searching any city** around the world.
+**KlimaPH** is a responsive and lightweight weather web app built using **HTML**, **CSS**, and **JavaScript**.  
+It shows the **current weather conditions** based on your **location** or through **city search** with real-time suggestions.
 
-## 🌐 Live Demo
-You can run it locally or deploy it easily on **GitHub Pages** — no backend or database is required.
+---
 
-## ✅ Features
+## 🌐 **Live Demo**
 
-- **Auto-detect location** and show local weather (with permission)
-- **Search bar** with **autocomplete suggestions** for cities
-- **Current weather information**:
-  - Temperature
-  - Humidity
-  - Weather description
-  - Wind speed
-  - Feels-like temperature
-- **Responsive design** (mobile-friendly)
-- Clean **blue and white-blue UI theme**
-- **Contact box** with quick email button
-- Footer showing project credits
+You can run it **locally** or deploy it on **GitHub Pages** — no backend or database needed.
 
-## 📁 How to Use
+---
 
-1. Clone or download this repository.
-2. Open the `index.html` file in any modern browser.
-3. Accept the location permission when prompted (optional).
-4. Type a city in the search bar and select from the suggestions to view weather data.
+## ✅ **Features**
 
-## 🔧 Requirements
+- 📍 **Auto-location detection** with permission
+- 🔍 **Search bar** with **autocomplete suggestions**
+- 📊 Shows current:
+  - **Temperature**
+  - **Humidity**
+  - **Weather condition**
+  - **Wind speed**
+  - **Feels-like temperature**
+- 📱 Fully **responsive** for mobile and desktop
+- 🎨 Clean **blue and white-blue UI**
+- 📬 Contact section with **email button**
+- 🖊️ Footer credit: _"Designed by Khert Garde © 2025"_
 
-- A browser (Chrome, Firefox, Edge, etc.)
-- An active internet connection
-- **WeatherAPI key** (already embedded in the app for this version)
+---
 
-## 🛠 Built With
+## 📁 **How to Use**
 
-- **HTML**
-- **CSS**
-- **Vanilla JavaScript**
-- **[WeatherAPI](https://www.weatherapi.com/)** for weather data and city search
+1. 📦 Clone or download this repository  
+2. 🌐 Open the `index.html` file in any modern browser  
+3. ✅ Allow location access when prompted (optional)  
+4. 🔎 Type a city name and choose from the suggestions  
 
-## 📄 License
+---
 
-This project is open for learning and personal use.  
-Designed and developed by **Khert Garde**, 2025.
+## 🔧 **Requirements**
+
+- ✅ A modern browser (Chrome, Firefox, Edge, etc.)  
+- 🌍 Active internet connection  
+- 🔑 A **WeatherAPI key** (already included for this version)
+
+---
+
+## 🛠 **Built With**
+
+- `HTML`
+- `CSS`
+- `Vanilla JavaScript`
+- [WeatherAPI.com](https://www.weatherapi.com/) – for weather data & city lookup
+
+---
+
+## 📄 **License**
+
+This project is open for **educational and personal use** only.  
+Crafted with care by **Khert Garde**, 2025.
